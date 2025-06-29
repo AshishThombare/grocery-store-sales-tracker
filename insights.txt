@@ -1,0 +1,19 @@
+   Grocery Store Sales Insights
+
+Date of Sales Data : 2025-06-29
+
+1. Total Revenue : Rs.1680
+
+2. Top-Selling Product : Rice (7 units sold)
+
+3. Highest Priced Product : Tea Powder (150 per unit)
+
+4. Personal care Items : 
+Soap (4 units)
+Shampoo (1 unit)
+>>Combined sales : rs.215
+
+5. Recommendations : 
+Maintain stock of Rice and Milk regularly.
+Promote low-selling items like Shampoo with discounts.
+Introduce new products in non-food category (soap/shampoo performing moderate)
